@@ -4,7 +4,7 @@ This project is able to send a theoretically infinite number of petition signs t
 
 # Dependencies 
  
-selenium (You will also need a webdriver binary for your platform for this to work, you can get one from https://chromedriver.chromium.org/
+selenium (You will also need a webdriver binary for your platform for this to work, you can get one from https://chromedriver.chromium.org/)
 
 ```
 pip install selenium
