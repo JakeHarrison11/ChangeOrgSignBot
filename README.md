@@ -1,6 +1,6 @@
 # Change.Org Infinite Signing Bot
 
-This project is able to send a theoretically infinite number of petition signs to the website https://change.org
+This project is able to send a theoretically infinite number of petition signs to the website https://change.org/
 
 # Dependencies 
  
