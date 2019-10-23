@@ -15,11 +15,9 @@ print("""
 """)
 
 link = input("Paste share link here: ")
-# link = "http://chng.it/6hGtbQsp"
 
 fname = json.loads(open('fnames.json').read())
 lname = json.loads(open('lnames.json').read())
-email = json.loads(open('emails.json').read())
 defualt_driver = wd.Chrome()
 fake = Faker()
 
@@ -47,7 +45,6 @@ def sendForm(runs):
 def main():
     defualt_driver.get(link)
     runsMade = 0
-
     for _ in range(1, 1000):
         try:
             sendForm(runsMade)
