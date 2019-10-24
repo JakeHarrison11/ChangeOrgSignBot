@@ -30,7 +30,7 @@ Place the webdriver binary in the project directory, then simply navigate to the
 python bot.py
 ```
 
-When the script is launched the console will prompt you for a change.org link, after the link is inputted, a web browser window will open. After that, the script should do the rest of the work.
+When the script is launched the console will prompt you for a change.org link. After the link is inputted, a web browser window will open. After that, the script should do the rest of the work.
 
 # How it works
 
